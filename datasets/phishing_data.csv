@@ -1,0 +1,11 @@
+url,label
+"http://phishingsite.com",1
+"https://secure-bank.com",0
+"http://fake-login.net",1
+"https://google.com",0
+"http://malicious-site.org",1
+"https://facebook.com",0
+"http://steal-passwords.ru",1
+"https://amazon.com",0
+"http://fraudulent-page.io",1
+"https://github.com",0
